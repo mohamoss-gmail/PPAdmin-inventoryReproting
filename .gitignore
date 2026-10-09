@@ -1,0 +1,5 @@
+﻿# Collection/probe output - contains real tenant data
+runs/
+
+# Local Claude Code settings
+.claude/settings.local.json
